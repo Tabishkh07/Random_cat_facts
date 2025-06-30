@@ -46,4 +46,4 @@ This project was built to:
 2. Open the `index.html` file in your browser
 3. Click the "Get Cat Fact" button to see a new cat fact each time!
 
---
+---
